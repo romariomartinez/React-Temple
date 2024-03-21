@@ -15,7 +15,7 @@ Sigue estos pasos para utilizar este template en tu proyecto:
    node --version y con el sabras si esta isntalado y su version, luego si seguir con los pasos
 
 
-   git clone https://github.com/tu-usuario/template-basico-react.git
+   git clone https://github.com/romariomartinez/React-Temple.git
 
 2. **Instalar dependencias**: Navega al directorio del proyecto y utiliza npm para instalar las dependencias.
     cd template-basico-react
